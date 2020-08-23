@@ -2,8 +2,6 @@
 
 import discord
 
-import Secret
-
 import gifRender
 
 
@@ -27,4 +25,4 @@ async def on_message(message):
         
 
 
-client.run(Secret.TOKEN)
+client.run(Your Token Goes here)
